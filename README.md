@@ -21,6 +21,7 @@
 - [Project Based Learning For JavaScript](https://github.com/practical-tutorials/project-based-learning#javascript)
 - [React Interview Questions](https://github.com/likezninjaz/react-ru-interview-questions)
 - [You Don't Know JS](https://github.com/azat-io/you-dont-know-js-ru)
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 ## Tools
 - [Can I Use](https://caniuse.com/)
